@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <!--#include virtual="/fc/includes/head.html" -->
+  <!--#include virtual="/fc/includes/head.shtml" -->
   <!--#include virtual="/includes/mathjax.html" -->
 
-	<title>Segment Congruence</title>
+	<title>Prove Segment Congruence</title>
 	<meta name="description" content="This page supports the Prove Segment Congruence activity.">
 		
 	<script type="text/javascript">
